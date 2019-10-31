@@ -1,4 +1,4 @@
-# Data-Structures-And-Algos
+# Data-Structures-And-Algorithms
 This repository contains C++ easy implementations of Data-Structures and Algorithms.
 
-Feel free to contribute to it. :)
+Feel free to contribute to it :)
